@@ -1,12 +1,17 @@
 <div align="center">
 
-# Hi, I'm 3punch 👋
+# Shayan Ebrahimi
+
+### Hi, I'm **3punch** 👋
 
 **I build things, then write about how they work.**
 
 Python and C++ developer working across algorithms, backend systems, and
 machine learning. Most of what I build starts as something I wanted to
 understand properly.
+
+[![GitHub](https://img.shields.io/badge/GitHub-3punch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3punch)
+[![Followers](https://img.shields.io/github/followers/3punch?color=blueviolet&style=for-the-badge&label=Followers)](https://github.com/3punch/followers)
 
 </div>
 
@@ -59,11 +64,10 @@ and end up as a tool, a library, or a full application.
 
 <div align="center">
 
-![Repos](https://img.shields.io/github/repo-count/3punch?style=for-the-badge&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/3punch?style=for-the-badge&color=blueviolet&label=Followers)
-![Stars](https://img.shields.io/github/stars/3punch?affiliate=3punch&style=for-the-badge&color=gold&label=Total%20Stars)
-![Commits](https://img.shields.io/github/commit-activity/m/3punch?affiliate=3punch&style=for-the-badge&color=orange&label=Commits%20(2026))
-![Last Commit](https://img.shields.io/github/last-commit/3punch?style=for-the-badge&color=orange)
+![Followers](https://img.shields.io/github/followers/3punch?color=blueviolet&style=for-the-badge&label=Followers)
+![Stars](https://img.shields.io/github/stars/3punch?affiliate=3punch&color=gold&style=for-the-badge&label=Total%20Stars)
+![Commits](https://img.shields.io/github/commit-activity/m/3punch/3punch?color=orange&style=for-the-badge&label=Commits%20(2026))
+![Last Commit](https://img.shields.io/github/last-commit/3punch/3punch?color=orange&style=for-the-badge)
 
 </div>
 
